@@ -1,0 +1,1 @@
+Thank you for the useful insights. Looking at the limitations mentioned here, perhaps it would be better to reconsider the central component of the design. In terms of robustness, do the 900Mhz frequency provide any better coverage than 2.4Ghz if the apparatus was to be installed in a dense metallic environment?
